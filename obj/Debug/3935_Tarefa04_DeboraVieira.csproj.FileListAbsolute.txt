@@ -1,0 +1,10 @@
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\bin\Debug\3935_Tarefa04_DeboraVieira.exe.config
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\bin\Debug\3935_Tarefa04_DeboraVieira.exe
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\bin\Debug\3935_Tarefa04_DeboraVieira.pdb
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\obj\Debug\3935_Tarefa04_DeboraVieira.csproj.AssemblyReference.cache
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\obj\Debug\_3935_Tarefa04_DeboraVieira.Form1.resources
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\obj\Debug\_3935_Tarefa04_DeboraVieira.Properties.Resources.resources
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\obj\Debug\3935_Tarefa04_DeboraVieira.csproj.GenerateResource.cache
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\obj\Debug\3935_Tarefa04_DeboraVieira.csproj.CoreCompileInputs.cache
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\obj\Debug\3935_Tarefa04_DeboraVieira.exe
+C:\Users\debor\Documents\3935\3935_Tarefa04_DeboraVieira\3935_Tarefa04_DeboraVieira\obj\Debug\3935_Tarefa04_DeboraVieira.pdb
